@@ -6,4 +6,8 @@ if (verdade) {
   console.log("Goodbye World");
 }
 
-// testar
+function arr(aro) {
+  if (aro) {
+    console.log("hue");
+  }
+}
