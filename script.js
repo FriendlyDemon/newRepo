@@ -5,3 +5,9 @@ if (verdade) {
 } else {
   console.log("Goodbye World");
 }
+
+function arr(aro) {
+  if (aro) {
+    console.log("hue");
+  }
+}
